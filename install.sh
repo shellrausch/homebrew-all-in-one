@@ -26,10 +26,12 @@ brew cask install google-chrome
 brew cask install gpgtools
 brew cask install hex-fiend
 brew cask install little-snitch
+brew cask install iterm2
 brew cask install macdown
 brew cask install spotify
 brew cask install sublime-text
 brew cask install the-unarchiver
 brew cask install transmission
+brew cask install tunnelblick
 brew cask install visual-studio-code
 brew cask install vlc
