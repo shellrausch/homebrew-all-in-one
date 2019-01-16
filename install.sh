@@ -4,6 +4,8 @@ export HOMEBREW_NO_INSECURE_REDIRECT=1
 export HOMEBREW_CASK_OPTS=--require-sha
 export HOMEBREW_NO_ANALYTICS=1
 
+brew analytics off
+
 brew install zsh zsh-completions
 brew install aria2
 brew install dep
